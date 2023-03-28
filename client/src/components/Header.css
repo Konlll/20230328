@@ -1,0 +1,19 @@
+header{
+    background-color: #007ba1;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.button{
+    background-color: transparent;
+    color: #fff;
+    font-size: 24px;
+    border: 2px solid #fff;
+}
+
+h1{
+    color: #fff;
+}
